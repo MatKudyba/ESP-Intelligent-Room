@@ -1,2 +1,3 @@
 # ESP-Intelligent-Room
-![pcb](https://github.com/user-attachments/assets/b3a3e387-d5ba-4e29-be4a-43c412523b6c)
+This solution is a simple IoT device based on an ESP microcontroller to monitor parameters and control electrical devices in a room.
+![pcb](https://github.com/user-attachments/assets/9c61f2d2-4334-4ff5-aa45-daaf5bbecac5)
